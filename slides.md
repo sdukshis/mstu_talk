@@ -120,7 +120,7 @@ if fault_detected(y_pred):
  
  Linus Torvalds
 
-[Go to github.com]()
+[Go to github.com](https://github.com/sdukshis/mstu_talk/blob/master/AD-UpAndDown.ipynb)
 
 
 ### Спасибо за внимание!
